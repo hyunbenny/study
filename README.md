@@ -4,7 +4,7 @@
 티스토리에 작성하던 글들은 천천히 옮길 예정입니다.<br/>
 
 # 목차
-## 컴퓨터구조/운영체제
+## [컴퓨터구조/운영체제](https://github.com/hyunbenny/study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 ### [컴퓨터 구조](https://github.com/hyunbenny/study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
 1. [컴퓨터 정보의 단위](https://github.com/hyunbenny/study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/1.%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%A0%95%EB%B3%B4%EC%9D%98%20%EB%8B%A8%EC%9C%84.md)
 

@@ -14,7 +14,7 @@
 ## 네트워크
 ## 자바
 ## 알고리즘
-## PS
+## [PS](https://github.com/hyunbenny/PS)
 ## 스프링
 ## 디자인 패턴
 ## DB

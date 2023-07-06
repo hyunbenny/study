@@ -8,7 +8,7 @@
 ### [컴퓨터 구조](https://github.com/hyunbenny/study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
 ### [운영체제](https://github.com/hyunbenny/study/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 ## [리눅스](https://github.com/hyunbenny/study/tree/main/%EB%A6%AC%EB%88%85%EC%8A%A4)
-## 네트워크
+## [네트워크](https://github.com/hyunbenny/study/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 ## [자바](https://github.com/hyunbenny/study/tree/main/%EC%9E%90%EB%B0%94)
 ## 알고리즘
 ## [PS](https://github.com/hyunbenny/PS)

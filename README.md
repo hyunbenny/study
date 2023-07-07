@@ -10,9 +10,9 @@
 ## [리눅스](https://github.com/hyunbenny/study/tree/main/%EB%A6%AC%EB%88%85%EC%8A%A4)
 ## [네트워크](https://github.com/hyunbenny/study/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 ## [자바](https://github.com/hyunbenny/study/tree/main/%EC%9E%90%EB%B0%94)
-## 알고리즘
+## [알고리즘](https://github.com/hyunbenny/study/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 ## [PS](https://github.com/hyunbenny/PS)
-## 스프링
+## [스프링](https://github.com/hyunbenny/study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%BD%94%EC%96%B4)
 ## 디자인 패턴
 ## DB
 ## JPA

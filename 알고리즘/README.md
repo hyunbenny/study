@@ -3,5 +3,6 @@
    2.1 [버블정렬](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2.%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.md)<br/>
    2.2 [선택정렬](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/3.%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)<br/>
    2.3 [삽입정렬](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/4.%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)<br/>
-   2.4 [퀵정렬](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/6.%ED%80%B5%EC%A0%95%EB%A0%AC.md)
+   2.4 [퀵정렬](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/6.%ED%80%B5%EC%A0%95%EB%A0%AC.md)<br>
+   2.5 [힙정렬]()
 3. [분할정복](https://github.com/hyunbenny/study/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/5.%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5.md)   

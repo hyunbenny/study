@@ -12,8 +12,9 @@
 ## [자바](https://github.com/hyunbenny/study/tree/main/%EC%9E%90%EB%B0%94)
 ## [알고리즘](https://github.com/hyunbenny/study/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 ## [PS](https://github.com/hyunbenny/PS)
+## [Git](https://github.com/hyunbenny/study/tree/main/Git)
 ## [스프링](https://github.com/hyunbenny/study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%BD%94%EC%96%B4)
 ## 디자인 패턴
-## DB
+## [DB](https://github.com/hyunbenny/study/tree/main/DB/MySQL)
 ## JPA
 ## 기타

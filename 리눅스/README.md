@@ -3,4 +3,4 @@
 3. [기본 명령어](https://github.com/hyunbenny/study/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4/3.%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 4. [사용자 관리](https://github.com/hyunbenny/study/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4/4.%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B4%80%EB%A6%AC.md)
 5. [파일, 디렉토리의 소유와 허가권](https://github.com/hyunbenny/study/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4/5.%ED%8C%8C%EC%9D%BC%2C%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC%EC%9D%98%20%EC%86%8C%EC%9C%A0%EC%99%80%20%ED%97%88%EA%B0%80%EA%B6%8C.md)
-6. [RPM과 DNF]()
+6. [RPM과 DNF](https://github.com/hyunbenny/study/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4/6.RPM%EA%B3%BC%20DNF.md)

@@ -18,5 +18,5 @@
 ## [DB](https://github.com/hyunbenny/study/tree/main/DB/MySQL)
 ### [MySQL](https://github.com/hyunbenny/study/tree/main/DB/MySQL)
 ### [Redis](https://github.com/hyunbenny/study/tree/main/DB/Redis)
-## JPA
+## [JPA](https://github.com/hyunbenny/study/tree/main/ORM/JPA)
 ## 기타

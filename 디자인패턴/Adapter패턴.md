@@ -2,7 +2,12 @@
 > 우리가 `어댑터`하면 떠오르는 것은 110V 제품을 220V 콘센트에 사용하는 AC어댑터, 혹은 USB C타입과 A타입을 변환해주는 어댑터일 것이다.<br/>
 > 이와 같이 서로 다른 것들 사이에서 필요한 형태로 변환하여 이용할 수 있도록 하는 것이 `Adapter 패턴`이다.
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbgdaiA%2Fbtr2C8oMb5E%2FULyYHGWgOtiz1pCPXd6H8K%2Fimg.jpg)<br/>
+이미지출처: https://pixabay.com/ko/photos/%ec%97%ac%ed%96%89-%ec%96%b4%eb%8c%91%ed%84%b0-%ed%94%8c%eb%9f%ac%ea%b7%b8-3320764/
+
 - Adapter 패턴은 무엇인가를 포장하여 다른 용도로 사용할 수 있도록 변환해주기 때문에 `Wrapper패턴`이라고 하기도 한다. 
+
+#### 기능적으로는 문제없이 동작하는 코드가 단지 인터페이스 차이로 인해 호환되지 않아 사용할 수 없는 경우 주로 사용한다.
 
 # 2. Adapter 패턴의 종류
 ## 2.1 클래스에 의한 Adapter 패턴

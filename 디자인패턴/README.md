@@ -25,7 +25,7 @@
 > 클래스, 객체 구성을 통해 더 큰 구조를 만들 수 있게 해준다. <br/>
 > - 규모가 커질수록 많은 클래스들이 서로 의존관계를 갖게 되는데, 이러한 복잡한 구조를 보다 개발하기 쉽고, 유지보수하기 쉽게 해준다.
 
-- [어댑터(Adapter) 패턴](https://hyunbenny.tistory.com/139)
+- [어댑터(Adapter) 패턴](https://github.com/hyunbenny/study/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Adapter%ED%8C%A8%ED%84%B4.md)
 - 컴포지트(Composite) 패턴
 - 브릿지(Bridge) 패턴
 - 데코레이터(Decorator) 패턴

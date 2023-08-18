@@ -38,7 +38,7 @@
 > 클래스나 객체 간 상호작용 방법, 어떤 알고리즘을 어떤 객체에 할당할 지 등을 정의하는 패턴<br/>
 > 하나의 객체로 수행할 수 없는 작업을 여러 객체로 나누어 결합도를 최소할 수 있도록 한다.
 
-- 템플릿 메서드(Template Method) 패턴
+- [템플릿 메서드(Template Method) 패턴](https://github.com/hyunbenny/study/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Template%20Method%20%ED%8C%A8%ED%84%B4.md)
 - 인터프리터(Interpreter) 패턴
 - [반복자(Iterator) 패턴](https://github.com/hyunbenny/study/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Iterator%ED%8C%A8%ED%84%B4.md)
 - 옵저버(Observer) 패턴

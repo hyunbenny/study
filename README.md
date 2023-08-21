@@ -14,9 +14,12 @@
 ## [PS](https://github.com/hyunbenny/PS)
 ## [Git](https://github.com/hyunbenny/study/tree/main/Git)
 ## [스프링](https://github.com/hyunbenny/study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%BD%94%EC%96%B4)
+### [코어](https://github.com/hyunbenny/study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%BD%94%EC%96%B4)
+### [MVC](https://github.com/hyunbenny/study/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81/MVC)
 ## [디자인 패턴](https://github.com/hyunbenny/study/tree/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
 ## [DB](https://github.com/hyunbenny/study/tree/main/DB/MySQL)
 ### [MySQL](https://github.com/hyunbenny/study/tree/main/DB/MySQL)
 ### [Redis](https://github.com/hyunbenny/study/tree/main/DB/Redis)
-## [JPA](https://github.com/hyunbenny/study/tree/main/ORM/JPA)
+## ORM
+### [JPA](https://github.com/hyunbenny/study/tree/main/ORM/JPA)
 ## 기타

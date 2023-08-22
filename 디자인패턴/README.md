@@ -14,7 +14,7 @@
 > 클라이언트와 클라이언트가 생성해야 하는 객체 인스턴스 사이의 연결을 끊어주는 패턴이다.<br/>  
 > 객체를 생성하고 변경하는 것이 시스템에 미치는 영향을 최소화하고 코드의 유연성을 높인다.
 
-- 팩토리 메서드(Factory Method) 패턴
+- [팩토리 메서드(Factory Method) 패턴](https://github.com/hyunbenny/study/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4/Factory%20Method%20%ED%8C%A8%ED%84%B4.md)
 - [싱글톤(Singleton) 패턴](https://hyunbenny.tistory.com/138)
 - 프로토타입(Prototype) 패턴
 - 빌더(Builder) 패턴

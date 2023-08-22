@@ -145,8 +145,8 @@ public class Main {
         UserCreator kakaoCreator = new KakaoUserCreator();
         User kakaoUser = kakaoCreator.create("KAKAO", "helloKakao");
 
-        UserCreator NaverCreator = new NaverUserCreator();
-        User NaverUser = creator.create("NAVER", "helloNaver");
+        UserCreator naverCreator = new NaverUserCreator();
+        User NaverUser = naverCreator.create("NAVER", "helloNaver");
 
         System.out.println(kakaoUser.getUserInfo());
         System.out.println(NaverUser.getUserInfo());
